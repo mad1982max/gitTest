@@ -1,3 +1,1 @@
-function addNumber(a, b) {
-    return a + b
-}
+deductNumber = (a, b) => a - b; 
